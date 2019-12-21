@@ -1,0 +1,9 @@
+{
+    "welcome": "REACT-NATIVE-APP",
+    "home": "ANASAYFA",
+    "notifications": "BİLDİRİM",
+    "change_locale": "DİL DEĞİŞTİR",
+    "logout": "ÇIKIŞ",
+    "login": "GİRİŞ",
+    "selectLanguage": "Dil Seçiniz"
+}
